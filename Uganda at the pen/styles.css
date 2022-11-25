@@ -1,0 +1,167 @@
+body{
+    background-color: skyblue;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: auto;
+    width: 100%;
+    overflow: auto;
+
+}
+
+
+#image2{
+    float: left;
+    height: 120px;
+    width: 120px;
+    border-radius: 120px;
+    box-sizing: border-box;
+}
+.navigation{
+    background-image: url(images/bg1.jpg);
+    width: 100%;
+    background-position: center bottom;
+    min-height: 150px;
+    color: white;
+}
+
+.navigation ul{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    list-style: none;
+}
+
+
+ .navigation li{
+     display: inline;
+ }
+
+.navigation a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.title-1{
+    font-size: 80px;
+    font-weight: bolder;
+    font-family: Tahoma, verdana, sans-serif;
+    color: gold;
+    line-height: 1em;
+    float: left;
+    width: 70%;
+}
+
+.main-body p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: purple;
+}
+
+.main-body a{
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 12px;
+}
+
+.decor-1{
+    background-color: honeydew;
+}
+
+.decor-2{
+    background-color: honeydew;
+}
+
+.decor-3{
+    background-color: honeydew;
+}
+
+.decor-4{
+    background-color: honeydew;
+}
+
+.decor-5{
+    background-color: honeydew;
+}
+
+.decor-6{
+    background-color: honeydew;
+}
+
+.decor-7{
+    background-color: honeydew;
+}
+
+.decor-8{
+    background-color: honeydew;
+}
+
+.decor-9{
+    background-color: honeydew;
+}
+
+.decor-10{
+    background-color: honeydew;
+}
+
+.decor-11{
+    background-color: honeydew;
+}
+
+
+
+.sidebar{
+    float: right;
+    width: 30%;
+    margin-top: opx;
+    padding-top: 5px;
+    color: #fff;
+    background-color: skyblue;
+}
+
+.sidebar a{
+    padding-left: 15px;
+    text-decoration: none;
+    color: blue;
+}
+
+
+.main-header{
+    background-image: url(images/1.jpg);
+    background-position: center center;
+    width: 100%;
+    min-height: 300px;
+    margin-bottom: 30px;
+}
+
+#cblack{
+    color: black;
+    padding-right: 5px;
+}
+
+#cyellow{
+    color: yellow;
+    padding-right: 5px;
+}
+
+#cred{
+    color: red;
+    padding-right: 5px;
+}
+
+.main-footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    word-spacing: 20px;
+}
+
+
+
+
+
